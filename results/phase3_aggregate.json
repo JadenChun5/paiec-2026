@@ -1,0 +1,120 @@
+{
+  "status": "STATISTICALLY_SUPPORTED_PILOT_IMPROVEMENT",
+  "protocol_sha256": "09909ddf3b39c8bcd8f15820c1d3091f872522816520582f22028baff32d1db8",
+  "run_script_sha256": "b8f580b5a5f4a90c1e2334793197b69d1204113bf65466fd77a0d5b379619039",
+  "revision": "54074453da7b9911be0f48e4c560be547bc84d21",
+  "methods": [
+    "constant_half",
+    "empirical_mean",
+    "beta_1_1"
+  ],
+  "n_benchmarks": 8,
+  "n_subject_benchmark_pairs": 83,
+  "evaluated_response_observations": 23050,
+  "seeds": 30,
+  "alc": {
+    "constant_half": 0.24999999999999994,
+    "empirical_mean": 0.2475922838494634,
+    "beta_1_1": 0.2131535060657149
+  },
+  "alc_cluster_95ci": {
+    "constant_half": [
+      0.24999999999999994,
+      0.24999999999999997
+    ],
+    "empirical_mean": [
+      0.22377546532551415,
+      0.2897721115112765
+    ],
+    "beta_1_1": [
+      0.1965902948191095,
+      0.24254372137419514
+    ]
+  },
+  "paired_improvement_mean_minus_beta": 0.03443877778374843,
+  "paired_improvement_95ci": [
+    0.027200968635691738,
+    0.047228798946700956
+  ],
+  "benchmark_signflip_two_sided_p": 0.0078125,
+  "per_budget": [
+    {
+      "budget": 0,
+      "brier": {
+        "constant_half": 0.25,
+        "empirical_mean": 0.25,
+        "beta_1_1": 0.25
+      },
+      "improvement_mean_minus_beta": 0.0,
+      "paired_cluster_95ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "budget": 1,
+      "brier": {
+        "constant_half": 0.25,
+        "empirical_mean": 0.3666716661773715,
+        "beta_1_1": 0.23333499983690162
+      },
+      "improvement_mean_minus_beta": 0.13333666634046978,
+      "paired_cluster_95ci": [
+        0.1067893096494168,
+        0.17872808622580671
+      ]
+    },
+    {
+      "budget": 3,
+      "brier": {
+        "constant_half": 0.25,
+        "empirical_mean": 0.2467023908709128,
+        "beta_1_1": 0.2170227732106335
+      },
+      "improvement_mean_minus_beta": 0.02967961766027949,
+      "paired_cluster_95ci": [
+        0.022260398506197362,
+        0.043133529351866595
+      ]
+    },
+    {
+      "budget": 7,
+      "brier": {
+        "constant_half": 0.25,
+        "empirical_mean": 0.20942162141772303,
+        "beta_1_1": 0.2022834110782372
+      },
+      "improvement_mean_minus_beta": 0.007138210339485915,
+      "paired_cluster_95ci": [
+        0.004839178172391767,
+        0.011341762190696382
+      ]
+    },
+    {
+      "budget": 15,
+      "brier": {
+        "constant_half": 0.25,
+        "empirical_mean": 0.19538846825157113,
+        "beta_1_1": 0.19361511733161257
+      },
+      "improvement_mean_minus_beta": 0.0017733509199585286,
+      "paired_cluster_95ci": [
+        0.0011233445202580288,
+        0.00306648216357512
+      ]
+    },
+    {
+      "budget": 31,
+      "brier": {
+        "constant_half": 0.25,
+        "empirical_mean": 0.18955454505947622,
+        "beta_1_1": 0.18902245774237933
+      },
+      "improvement_mean_minus_beta": 0.0005320873170968632,
+      "paired_cluster_95ci": [
+        0.00030394784076312464,
+        0.0010665115709532769
+      ]
+    }
+  ]
+}

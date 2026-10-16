@@ -1,0 +1,440 @@
+{
+  "dataset": "aims-foundations/measurement-db",
+  "revision": "54074453da7b9911be0f48e4c560be547bc84d21",
+  "historical_manifest_sha256": "b5b771ea3ed3d7c005268209eeb62cb79ef95a5abdc8b03520f7910a64c02016",
+  "records": [
+    {
+      "benchmark": "fewshot_ttt_bbh",
+      "table": "subjects",
+      "dataset_path": "fewshot_ttt_bbh/formatted_tables/subjects.parquet",
+      "sha256": "9fc0a8e1914cff8aeed6ee2e51400a10ef5828ba16b740452cd0e779e5d2d676",
+      "bytes": 7659,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "fewshot_ttt_bbh",
+      "table": "items",
+      "dataset_path": "fewshot_ttt_bbh/formatted_tables/items.parquet",
+      "sha256": "bd64ceff79edb58d23a1c7fcfed6d8607a708281129b1c59c8c3be6bc0c1c3ea",
+      "bytes": 238642,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "fewshot_ttt_bbh",
+      "table": "responses",
+      "dataset_path": "fewshot_ttt_bbh/formatted_tables/responses.parquet",
+      "sha256": "2a4700833ff4e94941cf415c90e3885ee13906c41a29c9525a4f50f7c0eceb27",
+      "bytes": 176995,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "financebench",
+      "table": "subjects",
+      "dataset_path": "financebench/formatted_tables/subjects.parquet",
+      "sha256": "60043d9fcc3b17908defaa203db95c2ca09330e83f9a39709212e83c20264b31",
+      "bytes": 8210,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "financebench",
+      "table": "items",
+      "dataset_path": "financebench/formatted_tables/items.parquet",
+      "sha256": "b86240e2c5ad2c985bd7cb571618e66f5d99f6aedad035ab08f4c8f3a810cba5",
+      "bytes": 43586,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "financebench",
+      "table": "responses",
+      "dataset_path": "financebench/formatted_tables/responses.parquet",
+      "sha256": "1b7c8eb6d6498c45b1a27cd6ade8b968842399c20b10077dd6f7847ebd912a16",
+      "bytes": 53892,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "mathconstraint",
+      "table": "subjects",
+      "dataset_path": "mathconstraint/formatted_tables/subjects.parquet",
+      "sha256": "b517aad0bb1fd6562809aacfc0a53cdb4854a1f824b967d5c6dd3fe7ed90cdf2",
+      "bytes": 7467,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "mathconstraint",
+      "table": "items",
+      "dataset_path": "mathconstraint/formatted_tables/items.parquet",
+      "sha256": "0fa7dfb3f226f589c8a289ef40df271c526c5fa0e8a4e8e8e751176848506721",
+      "bytes": 216194,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "mathconstraint",
+      "table": "responses",
+      "dataset_path": "mathconstraint/formatted_tables/responses.parquet",
+      "sha256": "6a88ec3bbb763a38904ddfadf4945888683ac00df174c9bb8e21bec0968c3a8e",
+      "bytes": 260653,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "medhelm_race_based_med",
+      "table": "subjects",
+      "dataset_path": "medhelm_race_based_med/formatted_tables/subjects.parquet",
+      "sha256": "80a312a683442106d7d464bd538b763dab8ce912284da480b7ec3e639360e53a",
+      "bytes": 9999,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "medhelm_race_based_med",
+      "table": "items",
+      "dataset_path": "medhelm_race_based_med/formatted_tables/items.parquet",
+      "sha256": "8ff383624a4619ed6afee683c7ba7e2dc51f4740952e7634c21ca856990ae3e4",
+      "bytes": 134459,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "medhelm_race_based_med",
+      "table": "responses",
+      "dataset_path": "medhelm_race_based_med/formatted_tables/responses.parquet",
+      "sha256": "147380c2408282141c247f475b76655b5ae0bba5d61a96e6f6c200626b64054b",
+      "bytes": 49585,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "nyu_ctf_bench",
+      "table": "subjects",
+      "dataset_path": "nyu_ctf_bench/formatted_tables/subjects.parquet",
+      "sha256": "ad54e3722664f8b1de1ada80b0bb85130b77f7f8e742f445f7a30f2f2555c14f",
+      "bytes": 9117,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "nyu_ctf_bench",
+      "table": "items",
+      "dataset_path": "nyu_ctf_bench/formatted_tables/items.parquet",
+      "sha256": "4c3156ae8e7226554ca1b241a87846b7d2c8b43275232f436ab335c6538a060f",
+      "bytes": 116852,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "nyu_ctf_bench",
+      "table": "responses",
+      "dataset_path": "nyu_ctf_bench/formatted_tables/responses.parquet",
+      "sha256": "62a53d8cbd70091355014da9091d8d34b19627b69229c213b6c662cfc63999ca",
+      "bytes": 70828,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "real_webagents",
+      "table": "subjects",
+      "dataset_path": "real_webagents/formatted_tables/subjects.parquet",
+      "sha256": "e563ff232af0d2241220e9857cdc65c64b67b9301aae594677a60ff3308e7fa5",
+      "bytes": 8365,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "real_webagents",
+      "table": "items",
+      "dataset_path": "real_webagents/formatted_tables/items.parquet",
+      "sha256": "5908db1f903c608e00911d50ca7ec0fa0e1b5bf4a09365d4ad52e0e1fde8f136",
+      "bytes": 48588,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "real_webagents",
+      "table": "responses",
+      "dataset_path": "real_webagents/formatted_tables/responses.parquet",
+      "sha256": "56d1fca0b984a30701f165f550e979d96c71b79af3b11a482e4eba5771065213",
+      "bytes": 94908,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "revolve",
+      "table": "subjects",
+      "dataset_path": "revolve/formatted_tables/subjects.parquet",
+      "sha256": "b2212c286372635109f3142ebdea8f87a93d2c6495f0e4219b7c1c97605dbaf9",
+      "bytes": 6675,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "revolve",
+      "table": "items",
+      "dataset_path": "revolve/formatted_tables/items.parquet",
+      "sha256": "5df01d17a693882f92d2ae3b13a5ec1484857cc019bf09622190c6823a5f8fad",
+      "bytes": 121763,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "revolve",
+      "table": "responses",
+      "dataset_path": "revolve/formatted_tables/responses.parquet",
+      "sha256": "62fbe077d85714da804c8431c740308f17b6c8ec6f7fa5db5b735a60c32e041b",
+      "bytes": 71162,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "taubench",
+      "table": "subjects",
+      "dataset_path": "taubench/formatted_tables/subjects.parquet",
+      "sha256": "3b1f8eede9c84a63540ea24a93e8c654d8fd766357975896f221ecab7bdd78cf",
+      "bytes": 12955,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "taubench",
+      "table": "items",
+      "dataset_path": "taubench/formatted_tables/items.parquet",
+      "sha256": "a532e73d595f69d38c84060ec73085003bdd61848bb194fdd6a0a9ff5afc4b44",
+      "bytes": 85082,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "taubench",
+      "table": "responses",
+      "dataset_path": "taubench/formatted_tables/responses.parquet",
+      "sha256": "55a421a56723edaebe488d50afeb1bd16e9751cc666467653dcb2c7e71697b02",
+      "bytes": 193234,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "visual_riddles",
+      "table": "subjects",
+      "dataset_path": "visual_riddles/formatted_tables/subjects.parquet",
+      "sha256": "7e999562146bd43aa89f2d0397f1cf9208fd6ee3cdcaf0edf487dcd76df80480",
+      "bytes": 7874,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "visual_riddles",
+      "table": "items",
+      "dataset_path": "visual_riddles/formatted_tables/items.parquet",
+      "sha256": "d557d3f898f2266040e27424c52d93426f352eb67eb7f1a667f525b1c00b7f1b",
+      "bytes": 264977,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "visual_riddles",
+      "table": "responses",
+      "dataset_path": "visual_riddles/formatted_tables/responses.parquet",
+      "sha256": "9377374e64ad60d3241d414df72260dc77f5942c73118f7e2f5079c015931fd8",
+      "bytes": 82018,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "visualwebarena",
+      "table": "subjects",
+      "dataset_path": "visualwebarena/formatted_tables/subjects.parquet",
+      "sha256": "d8f75234b9e4117654c4050edcf775f77b742c0d6eb27e425c3a1e012ff4249b",
+      "bytes": 13626,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "visualwebarena",
+      "table": "items",
+      "dataset_path": "visualwebarena/formatted_tables/items.parquet",
+      "sha256": "eec6afa8ecff597b7e4250a36fe58d3aa274c731c7dd2d77b04485aa0f386d98",
+      "bytes": 63193,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "visualwebarena",
+      "table": "responses",
+      "dataset_path": "visualwebarena/formatted_tables/responses.parquet",
+      "sha256": "45690bdd395c7cdf95b75b6441064929539fcaf5d05ec144ba10f5cb464cdfd4",
+      "bytes": 20607,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "workarena",
+      "table": "subjects",
+      "dataset_path": "workarena/formatted_tables/subjects.parquet",
+      "sha256": "87f88a783f77a352f4690b923b6ac9ba461b28bc609e05bb557a1b291a8f91f1",
+      "bytes": 19265,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "workarena",
+      "table": "items",
+      "dataset_path": "workarena/formatted_tables/items.parquet",
+      "sha256": "6e7224da6cd8589c87be19a505048b84710a412ab7fce495ecc31ec171dc4def",
+      "bytes": 86657,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "workarena",
+      "table": "responses",
+      "dataset_path": "workarena/formatted_tables/responses.parquet",
+      "sha256": "938f16332824703433fec48ae2cc1fb1beb9d9f199d057110085d185b41c0a3c",
+      "bytes": 21894,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "workbench_revisited",
+      "table": "subjects",
+      "dataset_path": "workbench_revisited/formatted_tables/subjects.parquet",
+      "sha256": "9ae8e4f16e212e28bd556dc8b36aa1a745c4da65addd403b39c9abbc5447c3af",
+      "bytes": 7748,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "workbench_revisited",
+      "table": "items",
+      "dataset_path": "workbench_revisited/formatted_tables/items.parquet",
+      "sha256": "b64b841a2d1d0985a7129b293c7343457f7cca2e182dd8da9f2c4d406030e744",
+      "bytes": 100968,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "workbench_revisited",
+      "table": "responses",
+      "dataset_path": "workbench_revisited/formatted_tables/responses.parquet",
+      "sha256": "5b06ab5cfb5762f5e8f59e788d609867ddb4b35827cdbdc5412971f606d0f2f3",
+      "bytes": 336781,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "algotune",
+      "table": "subjects",
+      "dataset_path": "algotune/formatted_tables/subjects.parquet",
+      "sha256": "7e8fd95d157c3d49d0ab4956a570a4d6a234c8ec7f49104af472a22d08286cf4",
+      "bytes": 7988,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "algotune",
+      "table": "items",
+      "dataset_path": "algotune/formatted_tables/items.parquet",
+      "sha256": "b089d8f29fef971f02f45885ecb0a23cb9e9e1dcf249099e1b619f3799611a4c",
+      "bytes": 508732,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "algotune",
+      "table": "responses",
+      "dataset_path": "algotune/formatted_tables/responses.parquet",
+      "sha256": "66454f671fb545f99d012d212dcd82156c2943fced9c5be82318fc674142097f",
+      "bytes": 60286,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "liveaopsbench",
+      "table": "subjects",
+      "dataset_path": "liveaopsbench/formatted_tables/subjects.parquet",
+      "sha256": "e7904875393dc9f45c914cf517e221a15cacda1b088682b3e16db0bad41db17b",
+      "bytes": 7824,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "liveaopsbench",
+      "table": "items",
+      "dataset_path": "liveaopsbench/formatted_tables/items.parquet",
+      "sha256": "c70cd52d4da2fcde0df5e4d51421440f6202e073faa77d582ce63b461ec61aab",
+      "bytes": 1069445,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "liveaopsbench",
+      "table": "responses",
+      "dataset_path": "liveaopsbench/formatted_tables/responses.parquet",
+      "sha256": "04c17bca06e188c5e32bc75975090334ac864408bbd7937a34dea48ff1ae4dcb",
+      "bytes": 2042344,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "perumedqa",
+      "table": "subjects",
+      "dataset_path": "perumedqa/formatted_tables/subjects.parquet",
+      "sha256": "8a2d656a048a0b42bf708fef0fc3f20b1fdeafb509ff42d8380ec678498c55df",
+      "bytes": 8297,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "perumedqa",
+      "table": "items",
+      "dataset_path": "perumedqa/formatted_tables/items.parquet",
+      "sha256": "00d71a689de53769c89badd0daaed837a0181b1ac558d0caa86bf94876043961",
+      "bytes": 1852747,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "perumedqa",
+      "table": "responses",
+      "dataset_path": "perumedqa/formatted_tables/responses.parquet",
+      "sha256": "db36f1448811c83367a84e47afdad423e1d6a1ddecf78d277c53e6a1b7f5ced6",
+      "bytes": 3221439,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "naep_llm_students",
+      "table": "subjects",
+      "dataset_path": "naep_llm_students/formatted_tables/subjects.parquet",
+      "sha256": "35fba2d648b2af2e88746d03616c9e9c3048cf18b1fcf9accf663b55cd279a16",
+      "bytes": 8896,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "naep_llm_students",
+      "table": "items",
+      "dataset_path": "naep_llm_students/formatted_tables/items.parquet",
+      "sha256": "f1823d0fd6b9d79d3563b334fa4774031382b0868aa2bad218385b5ae4d797bc",
+      "bytes": 475569,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "naep_llm_students",
+      "table": "responses",
+      "dataset_path": "naep_llm_students/formatted_tables/responses.parquet",
+      "sha256": "a3c8132fc2a3a9e489d5e74184ce04d7e300b2429fb0ded9e480f04dce4842e7",
+      "bytes": 1044375,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "ceval",
+      "table": "subjects",
+      "dataset_path": "ceval/formatted_tables/subjects.parquet",
+      "sha256": "57f1e1c2ffd32b44ddb5b31f277a5b56b16309f42fc3e43e7188eb636da5f001",
+      "bytes": 7290,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "ceval",
+      "table": "items",
+      "dataset_path": "ceval/formatted_tables/items.parquet",
+      "sha256": "ef2e9ae4d8602732883393f2cd2e63912dfe0cf363d3efc8dede2913a9908b50",
+      "bytes": 2844461,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "ceval",
+      "table": "responses",
+      "dataset_path": "ceval/formatted_tables/responses.parquet",
+      "sha256": "306c1a7b5b16b5286ea0d5f4d7ce53909936f1bf06d81b856ba8d4cbd37c3c28",
+      "bytes": 351210,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "appworld",
+      "table": "subjects",
+      "dataset_path": "appworld/formatted_tables/subjects.parquet",
+      "sha256": "39700cd3eca5efea9ca4e29dacb9a30372a99b35fc22a45157b7853e84dc730d",
+      "bytes": 7506,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "appworld",
+      "table": "items",
+      "dataset_path": "appworld/formatted_tables/items.parquet",
+      "sha256": "016ed101f006d6ce8d2dc43dd82f1ceacc53c0a5b28a8e63752a7049588f6729",
+      "bytes": 253157,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    },
+    {
+      "benchmark": "appworld",
+      "table": "responses",
+      "dataset_path": "appworld/formatted_tables/responses.parquet",
+      "sha256": "a15f0c5f85d435d9fa90ee17b9e2cf303e9439dd2b85e0f151534173e21f1f14",
+      "bytes": 229064,
+      "verification": "Historical file-manifest receipt only; raw file not reopened in this assignment"
+    }
+  ],
+  "scope": "Training candidates only, including one coverage exclusion. Does not contain full-cohort membership or row-level exclusions; does not itself permit raw-data redistribution."
+}

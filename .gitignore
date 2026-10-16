@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+data/
+private/
+outputs/
+work/
+*.parquet
+*.arrow
+*.feather
+*.csv
+*.npy
+*.npz
+*.pkl

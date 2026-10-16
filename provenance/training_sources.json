@@ -1,0 +1,23 @@
+{
+  "dataset_revision": "54074453da7b9911be0f48e4c560be547bc84d21",
+  "training_benchmarks": [
+    "algotune",
+    "appworld",
+    "ceval",
+    "financebench",
+    "liveaopsbench",
+    "mathconstraint",
+    "medhelm_race_based_med",
+    "naep_llm_students",
+    "nyu_ctf_bench",
+    "perumedqa",
+    "real_webagents",
+    "revolve",
+    "taubench",
+    "visual_riddles",
+    "visualwebarena",
+    "workarena",
+    "workbench_revisited"
+  ],
+  "scope": "Known public fitting-source names only; not a replacement for the full historical preparation cohort"
+}

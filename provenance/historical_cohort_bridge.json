@@ -1,0 +1,103 @@
+{
+  "dataset_revision": "54074453da7b9911be0f48e4c560be547bc84d21",
+  "selected_training": [
+    "fewshot_ttt_bbh",
+    "financebench",
+    "mathconstraint",
+    "medhelm_race_based_med",
+    "nyu_ctf_bench",
+    "real_webagents",
+    "revolve",
+    "taubench",
+    "visual_riddles",
+    "visualwebarena",
+    "workarena",
+    "workbench_revisited",
+    "algotune",
+    "liveaopsbench",
+    "perumedqa",
+    "naep_llm_students",
+    "ceval",
+    "appworld"
+  ],
+  "retained_training": [
+    "financebench",
+    "mathconstraint",
+    "medhelm_race_based_med",
+    "nyu_ctf_bench",
+    "real_webagents",
+    "revolve",
+    "taubench",
+    "visual_riddles",
+    "visualwebarena",
+    "workarena",
+    "workbench_revisited",
+    "algotune",
+    "liveaopsbench",
+    "perumedqa",
+    "naep_llm_students",
+    "ceval",
+    "appworld"
+  ],
+  "excluded_training": [
+    "fewshot_ttt_bbh"
+  ],
+  "selected_source_counts": {
+    "train": 18,
+    "development": 4,
+    "holdout": 12
+  },
+  "retained_source_counts": {
+    "train": 17,
+    "development": 4,
+    "holdout": 11
+  },
+  "training_coverage": {
+    "benchmarks": 17,
+    "pairs": 198,
+    "observations": 285454,
+    "unique_subject_profiles": 189
+  },
+  "manifest_hashes": {
+    "selection-plan.json": "fcd46bb48d12d470654b3682590dd259960bc941b096712eab04588100bd0d73",
+    "split-manifest.json": "080372fcb66c241a2a8ac5a232991eed39e5944b6b5e19a57b78d18f054aabcc",
+    "protocol.json": "89bb04dde8ff9a6cfc7d999588e6833b08681215ebc36bb77e63cf5f58dcb137",
+    "preparation-audit.json": "50806d649b2f9598bec082461eadf09dc5b3df8be291edcdf7613ad8b4ba9f4d",
+    "data-inventory.json": "65bd2aa7c1a94cf61e1ab2a928737c18d1ece31a018b1fca70c871a1ed9fc05b",
+    "revision.json": "1e828b7e814c0f580ea706fc7439413d009bc4ef977b2e8370097d508061fdfb",
+    "verification.json": "03d336e6138997b74a3eed52822d40e83e606897d11709edd0b556cb11fbc5f3",
+    "learned-prior.json": "b0f63dde8905e101e1a03db613cbf679c76491e80e57d35ac8f1438f5b060979"
+  },
+  "prepared_dataset_sha256_historical_only": "8550adeb7b3e895fb9b5fc037fb4c5ecf5833c48770d276d79e4075953cea3bd",
+  "code_sha256": {
+    "run.py": "77aa83e8f421f36843ea74c2985d997352e863ff72755968cd643658186cb27e",
+    "fit.py": "73097ccbeb04f3a48e3c31446e10ad867eaf45cd88ac56b6fe435e5174acf8bf",
+    "common.py": "8ae5eec8123ba7760a96d6d004b45f38e5a7d7d6f1117a7f5c7b4face80987b7",
+    "freeze.py": "071c0c18e7bdeb4b546755d44bc1205e0bd0e3da3b507fbb64aa7b0d5bc21d4a",
+    "prepare.py": "ecccc8a2bccb906cd99c80152044abf59e5a16f446231ae154386e05856200c3",
+    "inventory.py": "0ba0ba619b89aad8a995a44f018d636b1a8ad0da8bbb7c72e5f6eba50d36a548"
+  },
+  "fresh_static_checks": {
+    "selection-plan.json": true,
+    "split-manifest.json": true,
+    "original_code/run.py": true,
+    "original_code/fit.py": true,
+    "original_code/common.py": true,
+    "original_code/freeze.py": true,
+    "original_code/prepare.py": true,
+    "original_code/inventory.py": true,
+    "protocol_sidecar": true,
+    "training_table_receipts_complete": true,
+    "retained_fit_names_match_public_list": true
+  },
+  "historical_verification": {
+    "passed": 15,
+    "failed": 0,
+    "rerun": false
+  },
+  "limits": [
+    "No raw tables or prepared data read or rehashed.",
+    "Full original cohort/exclusion inputs are not included in this public candidate.",
+    "No new fit, scoring, or statistical experiment."
+  ]
+}

@@ -1,0 +1,538 @@
+[
+  {
+    "identifier": "algotune",
+    "benchmark_name": "AlgoTune",
+    "identity_verified": true,
+    "citation_keys": [
+      "press2025algotune"
+    ],
+    "source_url": "https://github.com/oripress/AlgoTune",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/algotune/metadata.yaml",
+    "metadata_sha256": "25f2d0e983ce96b44c604b08b396e72b2677655928788d64dd256b85049ec755",
+    "license_declared": "MIT",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit. Captured citation abbreviates the author list with others; it is not asserted complete.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "release",
+        "url": "https://github.com/oripress/AlgoTune",
+        "revision": "dff9914c10800c7a031c9e8c3d4d1c8cd1b38906"
+      },
+      {
+        "url": "https://huggingface.co/datasets/oripress/AlgoTune",
+        "revision": "fc3744ffd7eebaa9e9b55427e2cda440955fdd2d"
+      }
+    ]
+  },
+  {
+    "identifier": "appworld",
+    "benchmark_name": "AppWorld",
+    "identity_verified": true,
+    "citation_keys": [
+      "trivedi2024appworldcontrollableworldapps"
+    ],
+    "source_url": "https://github.com/StonyBrookNLP/appworld-leaderboard",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/appworld/metadata.yaml",
+    "metadata_sha256": "cf9218801684b8625422d780db27d0a67cb12b30a13c5b69743ec1bf412d2a5e",
+    "license_declared": "Apache-2.0",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "results",
+        "url": "https://github.com/StonyBrookNLP/appworld-leaderboard",
+        "revision": "c1f56015cf7c3441ff1933f5bfbec879798d7bbe"
+      },
+      {
+        "url": "https://github.com/StonyBrookNLP/appworld",
+        "revision": "0a749f16da0c516811fe58e59ec9e2217560f54d"
+      }
+    ]
+  },
+  {
+    "identifier": "ceval",
+    "benchmark_name": "C-Eval",
+    "identity_verified": true,
+    "citation_keys": [
+      "huang2023ceval",
+      "li2024contamination"
+    ],
+    "source_url": "https://github.com/liyucheng09/Contamination_Detector",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/ceval/metadata.yaml",
+    "metadata_sha256": "1b3e419103aa75ee424a3ead2a99fbfa7790d8d7b2c4693899878d80aad0d52a",
+    "license_declared": "Questions: CC-BY-NC-SA-4.0. The third-party prediction export declares no separate license.",
+    "citation_verification": "Primary bibliographic fields checked at the linked author/arXiv record(s). The export paper first appeared in 2023; its pinned v3 is 2024. Both original benchmark and export are credited.",
+    "primary_pages_checked": [
+      "https://arxiv.org/abs/2305.08322",
+      "https://arxiv.org/abs/2310.17589v3"
+    ],
+    "upstream_pins": [
+      {
+        "name": "official_questions",
+        "url": "https://huggingface.co/datasets/ceval/ceval-exam",
+        "revision": "617524a00b307ff6f9933702f724131fe12ca7ce"
+      },
+      {
+        "name": "analysis_code",
+        "url": "https://github.com/liyucheng09/Contamination_Detector",
+        "revision": "ffe3c249309da9a7ad7f42e9145e1f8e4d36c77e"
+      }
+    ]
+  },
+  {
+    "identifier": "financebench",
+    "benchmark_name": "FinanceBench",
+    "identity_verified": true,
+    "citation_keys": [
+      "islam2023financebench"
+    ],
+    "source_url": "https://github.com/patronus-ai/financebench/tree/22257c455f9f9ca9ca3dc67456d9a32e60c7ef08",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/financebench/metadata.yaml",
+    "metadata_sha256": "6c3372af624e9c5f5ad72970f09134c213bb42590b7fa09febc968d9666b9356",
+    "license_declared": "unknown",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "provider_archive",
+        "url": "https://codeload.github.com/patronus-ai/financebench/tar.gz/22257c455f9f9ca9ca3dc67456d9a32e60c7ef08",
+        "revision": "22257c455f9f9ca9ca3dc67456d9a32e60c7ef08"
+      },
+      {
+        "name": "paper_v1",
+        "url": "https://arxiv.org/pdf/2311.11944v1",
+        "revision": "v1"
+      },
+      {
+        "name": "documents",
+        "url": "https://github.com/patronus-ai/financebench",
+        "revision": "22257c455f9f9ca9ca3dc67456d9a32e60c7ef08"
+      }
+    ]
+  },
+  {
+    "identifier": "liveaopsbench",
+    "benchmark_name": "LiveAoPSBench",
+    "identity_verified": true,
+    "citation_keys": [
+      "mahdavi2025leveraging"
+    ],
+    "source_url": "https://github.com/LiveMathBench/LiveMathBench.github.io",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/liveaopsbench/metadata.yaml",
+    "metadata_sha256": "d6a1ac2bd4de7153db8f5a14374ee186c6523e35dbe72ccc1f63b1427a6489b8",
+    "license_declared": "Task dataset: Apache-2.0 (author HF card); website result/source release: CC-BY-SA-4.0; evaluator code: Apache-2.0. Original notices are captured.",
+    "citation_verification": "Primary bibliographic fields checked at the linked author/arXiv record(s).",
+    "primary_pages_checked": [
+      "https://arxiv.org/abs/2501.14275"
+    ],
+    "upstream_pins": [
+      {
+        "name": "results_json",
+        "url": "https://raw.githubusercontent.com/LiveMathBench/LiveMathBench.github.io/1fafd48912960842da0caa53a71e1d605a108246/src/mocks/acc2024.json",
+        "revision": "1fafd48912960842da0caa53a71e1d605a108246"
+      },
+      {
+        "name": "questions_jsonl",
+        "url": "https://raw.githubusercontent.com/LiveMathBench/LiveMathBench.github.io/1fafd48912960842da0caa53a71e1d605a108246/public/data/LiveAoPSBench-2024.jsonl",
+        "revision": "1fafd48912960842da0caa53a71e1d605a108246"
+      },
+      {
+        "name": "earlier_results_json",
+        "url": "https://raw.githubusercontent.com/LiveMathBench/LiveMathBench.github.io/1fafd48912960842da0caa53a71e1d605a108246/src/mocks/acc.json",
+        "revision": "1fafd48912960842da0caa53a71e1d605a108246"
+      },
+      {
+        "name": "website_exporter_py",
+        "url": "https://raw.githubusercontent.com/LiveMathBench/LiveMathBench.github.io/1fafd48912960842da0caa53a71e1d605a108246/src/mocks/trans_json.py",
+        "revision": "1fafd48912960842da0caa53a71e1d605a108246"
+      },
+      {
+        "name": "website_index_tsx",
+        "url": "https://raw.githubusercontent.com/LiveMathBench/LiveMathBench.github.io/1fafd48912960842da0caa53a71e1d605a108246/src/index.tsx",
+        "revision": "1fafd48912960842da0caa53a71e1d605a108246"
+      },
+      {
+        "name": "website_readme_md",
+        "url": "https://raw.githubusercontent.com/LiveMathBench/LiveMathBench.github.io/1fafd48912960842da0caa53a71e1d605a108246/README.md",
+        "revision": "1fafd48912960842da0caa53a71e1d605a108246"
+      },
+      {
+        "name": "source_questions_jsonl",
+        "url": "https://raw.githubusercontent.com/LiveMathBench/LiveMathBench.github.io/f7e3b365cef3c0947199cb9872d525bb74764345/public/data/LiveAoPSbench-1224.jsonl",
+        "revision": "f7e3b365cef3c0947199cb9872d525bb74764345"
+      },
+      {
+        "name": "earlier_questions_jsonl",
+        "url": "https://raw.githubusercontent.com/LiveMathBench/LiveMathBench.github.io/5a9a56b0bb14b028bc996e33dd3eb9a4d6f9e01f/public/data/LiveAoPSBench_v1.0.jsonl",
+        "revision": "5a9a56b0bb14b028bc996e33dd3eb9a4d6f9e01f"
+      },
+      {
+        "name": "evaluator_license",
+        "url": "https://raw.githubusercontent.com/DSL-Lab/aops/56f6bc1e670170e301f1c9ebc172124defd21e90/LICENSE",
+        "revision": "56f6bc1e670170e301f1c9ebc172124defd21e90"
+      },
+      {
+        "name": "evaluator_readme_md",
+        "url": "https://raw.githubusercontent.com/DSL-Lab/aops/56f6bc1e670170e301f1c9ebc172124defd21e90/README.md",
+        "revision": "56f6bc1e670170e301f1c9ebc172124defd21e90"
+      },
+      {
+        "name": "evaluator_eval_license",
+        "url": "https://raw.githubusercontent.com/DSL-Lab/aops/56f6bc1e670170e301f1c9ebc172124defd21e90/eval/LICENSE",
+        "revision": "56f6bc1e670170e301f1c9ebc172124defd21e90"
+      },
+      {
+        "name": "evaluator_eval_readme_md",
+        "url": "https://raw.githubusercontent.com/DSL-Lab/aops/56f6bc1e670170e301f1c9ebc172124defd21e90/eval/README.md",
+        "revision": "56f6bc1e670170e301f1c9ebc172124defd21e90"
+      },
+      {
+        "name": "evaluator_eval_evaluate_py",
+        "url": "https://raw.githubusercontent.com/DSL-Lab/aops/56f6bc1e670170e301f1c9ebc172124defd21e90/eval/evaluate.py",
+        "revision": "56f6bc1e670170e301f1c9ebc172124defd21e90"
+      },
+      {
+        "name": "evaluator_eval_grader_py",
+        "url": "https://raw.githubusercontent.com/DSL-Lab/aops/56f6bc1e670170e301f1c9ebc172124defd21e90/eval/grader.py",
+        "revision": "56f6bc1e670170e301f1c9ebc172124defd21e90"
+      },
+      {
+        "name": "evaluator_eval_parser_py",
+        "url": "https://raw.githubusercontent.com/DSL-Lab/aops/56f6bc1e670170e301f1c9ebc172124defd21e90/eval/parser.py",
+        "revision": "56f6bc1e670170e301f1c9ebc172124defd21e90"
+      },
+      {
+        "name": "evaluator_eval_data_loader_py",
+        "url": "https://raw.githubusercontent.com/DSL-Lab/aops/56f6bc1e670170e301f1c9ebc172124defd21e90/eval/data_loader.py",
+        "revision": "56f6bc1e670170e301f1c9ebc172124defd21e90"
+      },
+      {
+        "name": "evaluator_eval_math_eval_py",
+        "url": "https://raw.githubusercontent.com/DSL-Lab/aops/56f6bc1e670170e301f1c9ebc172124defd21e90/eval/math_eval.py",
+        "revision": "56f6bc1e670170e301f1c9ebc172124defd21e90"
+      },
+      {
+        "name": "task_dataset_card",
+        "url": "https://huggingface.co/datasets/jojo23333/LiveAoPSBench-2024/resolve/3ff6280f4c1d75a035698524c26ee91c70e4e2b5/README.md",
+        "revision": "3ff6280f4c1d75a035698524c26ee91c70e4e2b5"
+      }
+    ]
+  },
+  {
+    "identifier": "mathconstraint",
+    "benchmark_name": "MathConstraint",
+    "identity_verified": true,
+    "citation_keys": [
+      "pati2026mathconstraint"
+    ],
+    "source_url": "https://github.com/vireshpati/Math-Constraint",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/mathconstraint/metadata.yaml",
+    "metadata_sha256": "0bc2f598b7243c49b562e7476e50909f3f8d220f7c0bacc2b417f82a3a4f72c2",
+    "license_declared": "cc-by-4.0",
+    "citation_verification": "Primary bibliographic fields checked at the linked author/arXiv record(s).",
+    "primary_pages_checked": [
+      "https://arxiv.org/abs/2605.08498"
+    ],
+    "upstream_pins": [
+      {
+        "name": "benchmark",
+        "url": "https://github.com/vireshpati/Math-Constraint",
+        "revision": "687a6d5510f96afdfa7229fc04b230e434e0c792"
+      }
+    ]
+  },
+  {
+    "identifier": "medhelm_race_based_med",
+    "benchmark_name": "MedHELM RaceBasedMed",
+    "identity_verified": true,
+    "citation_keys": [
+      "bedi2025medhelm"
+    ],
+    "source_url": "https://crfm.stanford.edu/helm/medhelm/",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/medhelm_race_based_med/metadata.yaml",
+    "metadata_sha256": "e5a772d9a51afd45c94df5ae909155472b3115812a5b51ff82c6f210451ebdb2",
+    "license_declared": "unknown",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit. Captured citation abbreviates the author list with others; it is not asserted complete. MedHELM is the verified export attribution; a separate underlying race-based-medicine task publication is not identified in the inspected citation field.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "runs",
+        "url": "https://storage.googleapis.com/crfm-helm-public",
+        "revision": "v4.0.0"
+      },
+      {
+        "name": "grader",
+        "url": "https://github.com/stanford-crfm/helm",
+        "revision": "63754d05db6f874e41a395880fb573890a13e791"
+      }
+    ]
+  },
+  {
+    "identifier": "naep_llm_students",
+    "benchmark_name": "NAEP LLM-as-Student",
+    "identity_verified": true,
+    "citation_keys": [
+      "srivatsa2025naepllm"
+    ],
+    "source_url": "https://github.com/kvadityasrivatsa/IRT-for-LLMs-as-Students",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/naep_llm_students/metadata.yaml",
+    "metadata_sha256": "210531fad5b4ade9b08fbb34be8cd7cd50e9baa05bf607b20018579bb2785c9f",
+    "license_declared": "MIT for the authors' recorded results and analysis code. NAEP source pages and illustrations retain their original attributions.",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "recorded_results",
+        "url": "https://github.com/kvadityasrivatsa/IRT-for-LLMs-as-Students",
+        "revision": "c3105e17cb9f1e10ec5d9f939d0a336ad735e200"
+      }
+    ]
+  },
+  {
+    "identifier": "nyu_ctf_bench",
+    "benchmark_name": "NYU CTF Bench",
+    "identity_verified": true,
+    "citation_keys": [
+      "shao2024nyuctf"
+    ],
+    "source_url": "https://github.com/NYU-LLM-CTF/NYU_CTF_Bench",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/nyu_ctf_bench/metadata.yaml",
+    "metadata_sha256": "aa639d75c56df7fca87788b4f0e3ef85c3ea2e2f63fdc394b1e9740ed3d57937",
+    "license_declared": "GPL-2.0 for the NYU_CTF_Bench task repository, with original notices retained. The separate leaderboard_submissions repository and linked forensic input do not declare explicit redistribution terms; raw and formatted data remain local pending clarification. The previous blanket MIT attribution is unsupported.",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "tasks",
+        "url": "https://codeload.github.com/NYU-LLM-CTF/NYU_CTF_Bench/tar.gz/4c5744f55a31a58e03d6118c9dbb1c18e5bbdfa9",
+        "revision": "4c5744f55a31a58e03d6118c9dbb1c18e5bbdfa9"
+      },
+      {
+        "name": "results",
+        "url": "https://codeload.github.com/NYU-LLM-CTF/leaderboard_submissions/tar.gz/69def02a79e8b1d890e1e0d5c11106a9f40e11e1",
+        "revision": "69def02a79e8b1d890e1e0d5c11106a9f40e11e1"
+      },
+      {
+        "name": "forensings",
+        "url": "https://drive.usercontent.google.com/download",
+        "revision": "sha256:d7754455afabf7d9778022a4f963e1e0ba81f9a003323458a52e33eb33268d89"
+      }
+    ]
+  },
+  {
+    "identifier": "perumedqa",
+    "benchmark_name": "PeruMedQA",
+    "identity_verified": true,
+    "citation_keys": [
+      "carrillolarco2025perumedqa"
+    ],
+    "source_url": "https://github.com/rodrigo-carrillo/PeruMedQA",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/perumedqa/metadata.yaml",
+    "metadata_sha256": "48c73dccdde7ef47dca345804d8b1a7932577090c4ab9dd9ef25ab3b1a330484",
+    "license_declared": "Apache-2.0",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "release",
+        "url": "https://github.com/rodrigo-carrillo/PeruMedQA",
+        "revision": "709158accc32fed76e32b0c9b6c3b0ef759766ab"
+      }
+    ]
+  },
+  {
+    "identifier": "real_webagents",
+    "benchmark_name": "REAL",
+    "identity_verified": true,
+    "citation_keys": [
+      "garg2025realbenchmarkingautonomousagents"
+    ],
+    "source_url": "https://realevals.xyz/api/getVerifiedModelData",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/real_webagents/metadata.yaml",
+    "metadata_sha256": "07773643c7d995aca42aaa6135e135c7716323e4a749e4224cef683e505d1fb8",
+    "license_declared": "unknown",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "tasks",
+        "url": "https://github.com/agi-inc/REAL",
+        "revision": "56d8f1643bdaa5e662086b1a357a9693c9ededf6"
+      }
+    ]
+  },
+  {
+    "identifier": "revolve",
+    "benchmark_name": "REVOLVE",
+    "identity_verified": true,
+    "citation_keys": [
+      "zhang2025revolve"
+    ],
+    "source_url": "https://github.com/Peiyance/REVOLVE",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/revolve/metadata.yaml",
+    "metadata_sha256": "c001d565aa5e80c4240bdfd0b7d8be4031ae7bc44a429fcb7243e85bef61b065",
+    "license_declared": "MIT",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "predictions",
+        "url": "https://github.com/Peiyance/REVOLVE",
+        "revision": "63fa604d5df7c9c3262c77c9f58d4697cd7b0fbc"
+      }
+    ]
+  },
+  {
+    "identifier": "taubench",
+    "benchmark_name": "tau-bench",
+    "identity_verified": true,
+    "citation_keys": [
+      "yao2024taubench",
+      "stroebl2026hal"
+    ],
+    "source_url": "https://github.com/sierra-research/tau-bench",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/taubench/metadata.yaml",
+    "metadata_sha256": "39bd8ec34d06c3ad324cef462d63f35ae6633f6c6b0f42bf8678878aef059a9e",
+    "license_declared": "Original Sierra code and tasks: MIT. HAL traces: public analysis release; no separate data license found in the captured export repository.",
+    "citation_verification": "Primary bibliographic fields checked at the linked author/arXiv record(s). HAL is a distinct result-export/harness reference; it is not a second fitting benchmark.",
+    "primary_pages_checked": [
+      "https://arxiv.org/abs/2406.12045",
+      "https://github.com/princeton-pli/hal-harness"
+    ],
+    "upstream_pins": [
+      {
+        "name": "sierra",
+        "url": "https://github.com/sierra-research/tau-bench",
+        "revision": "59a200c6d575d595120f1cb70fea53cef0632f6b"
+      },
+      {
+        "name": "hal_runs",
+        "url": "https://huggingface.co/datasets/agent-evals/hal_traces",
+        "revision": "e7dcedc82b4f4bc819a170fd6616bdb44841c71e"
+      },
+      {
+        "name": "hal_protocol",
+        "url": "https://github.com/princeton-pli/hal-harness",
+        "revision": "16bb03ebc11577fb5ea6dc8bb6c968387085e6aa"
+      }
+    ]
+  },
+  {
+    "identifier": "visual_riddles",
+    "benchmark_name": "Visual Riddles",
+    "identity_verified": true,
+    "citation_keys": [
+      "bittonguetta2024visualriddlescommonsenseworld"
+    ],
+    "source_url": "https://huggingface.co/datasets/visual-riddles/visual_riddles",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/visual_riddles/metadata.yaml",
+    "metadata_sha256": "4885d025d3ad6258d23b683ff8d7611ffd5a1b10bcaa39ddd572daf9346fd43c",
+    "license_declared": "Apache-2.0 declared; see upstream card for commercial-training restriction and retained image rights",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "release",
+        "url": "https://huggingface.co/datasets/visual-riddles/visual_riddles",
+        "revision": "f944390e356887f91be078458ec492adb23a4e2a"
+      }
+    ]
+  },
+  {
+    "identifier": "visualwebarena",
+    "benchmark_name": "VisualWebArena",
+    "identity_verified": true,
+    "citation_keys": [
+      "koh2024visualwebarena",
+      "lu2025agentrewardbench"
+    ],
+    "source_url": "https://huggingface.co/datasets/McGill-NLP/agent-reward-bench",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/visualwebarena/metadata.yaml",
+    "metadata_sha256": "351871dfa87d05f7e7c7bea61e4eec6e271ef14e10991f650e26aca18d36cebe",
+    "license_declared": "AgentRewardBench custom dataset terms: use must be lawful and respect third-party rights and applicable third-party conditions; the source describes research use under applicable fair-use provisions. Derivatives must retain those terms, captured in raw/README.md. The VisualWebArena code's MIT license is not asserted to license these separately released trajectories.",
+    "citation_verification": "Primary bibliographic fields checked at the linked author/arXiv record(s).",
+    "primary_pages_checked": [
+      "https://arxiv.org/abs/2401.13649",
+      "https://arxiv.org/abs/2504.08942"
+    ],
+    "upstream_pins": [
+      {
+        "name": "released_records",
+        "url": "https://huggingface.co/datasets/McGill-NLP/agent-reward-bench",
+        "revision": "b6d17e646009d6cb63d5dd7be78807b680693f61"
+      },
+      {
+        "name": "task_images",
+        "url": "https://github.com/web-arena-x/visualwebarena",
+        "revision": "89f5af29305c3d1e9f97ce4421462060a70c9a03"
+      },
+      {
+        "name": "libvisualwebarena",
+        "url": "https://files.pythonhosted.org/packages/5c/de/321b533a7ec8538396addbc3206eef0ada4153208f783679e6091d94b2f7/libvisualwebarena-0.0.15-py3-none-any.whl",
+        "revision": "sha256:02c2f66b6a7ccb98e11c6decd8b00e8fc262223b002b80a13464e20bcdfe2999"
+      },
+      {
+        "name": "browsergym_visualwebarena",
+        "url": "https://files.pythonhosted.org/packages/47/5a/5022fb0e073b51caa8190b839d2055743f2f645de52af3d6afd67d22a71b/browsergym_visualwebarena-0.13.3-py3-none-any.whl",
+        "revision": "sha256:a42c200023497a4970290fce39b419a93aadfc9e92c02ae602704d2957e5e531"
+      }
+    ]
+  },
+  {
+    "identifier": "workarena",
+    "benchmark_name": "WorkArena",
+    "identity_verified": true,
+    "citation_keys": [
+      "drouin2024workarena",
+      "lu2025agentrewardbench"
+    ],
+    "source_url": "https://huggingface.co/datasets/McGill-NLP/agent-reward-bench",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/workarena/metadata.yaml",
+    "metadata_sha256": "2a9212b994ba1a32cdf48e4c135e650dc787d6220afd4f1acbadb8d3f06defd7",
+    "license_declared": "AgentRewardBench custom dataset terms: use must be lawful and respect third-party rights and applicable third-party conditions; the source describes research use under applicable fair-use provisions. Derivatives must retain those terms, captured in raw/README.md. The WorkArena code's Apache-2.0 license is not asserted to license these separately released trajectories.",
+    "citation_verification": "Primary bibliographic fields checked at the linked author/arXiv record(s).",
+    "primary_pages_checked": [
+      "https://arxiv.org/abs/2403.07718",
+      "https://arxiv.org/abs/2504.08942"
+    ],
+    "upstream_pins": [
+      {
+        "name": "released_records",
+        "url": "https://huggingface.co/datasets/McGill-NLP/agent-reward-bench",
+        "revision": "b6d17e646009d6cb63d5dd7be78807b680693f61"
+      },
+      {
+        "name": "protocol_reference",
+        "url": "https://github.com/McGill-NLP/agent-reward-bench",
+        "revision": "05899fcfe52c925978944a23920373b7a9c63740"
+      }
+    ]
+  },
+  {
+    "identifier": "workbench_revisited",
+    "benchmark_name": "WorkBench Revisited",
+    "identity_verified": true,
+    "citation_keys": [
+      "styles2026workbenchrevisited",
+      "styles2024workbench"
+    ],
+    "source_url": "https://github.com/olly-styles/WorkBench",
+    "metadata_url": "https://huggingface.co/datasets/aims-foundations/measurement-db/resolve/54074453da7b9911be0f48e4c560be547bc84d21/workbench_revisited/metadata.yaml",
+    "metadata_sha256": "c3109e8b547fabb9cce4f8cece76e6c33d4634d5862ea29fd1a1375c300282bb",
+    "license_declared": "MIT",
+    "citation_verification": "Citation retained from the hash-pinned MDB metadata receipt; no new independent publisher/complete-author-list audit.",
+    "primary_pages_checked": [],
+    "upstream_pins": [
+      {
+        "name": "release",
+        "url": "https://github.com/olly-styles/WorkBench",
+        "revision": "da6f8ee8d9f8efc87b2f5f3cc9edc1befdac726e"
+      },
+      {
+        "name": "verdicts",
+        "url": "https://github.com/olly-styles/WorkBench",
+        "revision": "7844e94c0a1f5c138699562830c37f37ede6d51b"
+      }
+    ]
+  }
+]

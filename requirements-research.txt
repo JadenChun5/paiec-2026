@@ -1,0 +1,7 @@
+# Optional historical research versions observed in the existing environment.
+# Not a historical/transitive lock; not required for the predictor or validator.
+numpy==2.5.1
+scipy==1.18.0
+pandas==3.0.3
+pyarrow==25.0.0
+huggingface-hub==1.22.0

@@ -1,0 +1,40 @@
+{
+  "scope": "Synthetic software verification only; no scientific experiment or optimizer training",
+  "python": "3.12.14",
+  "direct_versions": {
+    "numpy": "2.5.1",
+    "scipy": "1.18.0",
+    "pandas": "3.0.3",
+    "pyarrow": "25.0.0",
+    "huggingface-hub": "1.22.0"
+  },
+  "fresh_dependency_install": "21 packages; compatibility PASS",
+  "eb_synthetic_tests": {
+    "passed": 11,
+    "failed": 0
+  },
+  "validators": {
+    "baseline": "PASS",
+    "kit": "PASS"
+  },
+  "smoke": {
+    "sequential": "PASS",
+    "requested_four": "PASS",
+    "toy_inputs": 2
+  },
+  "suite_worker_checks": {
+    "six_budgets": true,
+    "one_and_four_worker_pools": 12,
+    "verified_forecasts": 96
+  },
+  "reproduction_fixture": {
+    "checks_passed": 7,
+    "sources": 23,
+    "prepared_records": 3680,
+    "training_pairs": 24,
+    "optimizer_mocked": true
+  },
+  "fresh_environment_fixture": "7/7 PASS",
+  "acquisition": "dry run only, no authentication/network",
+  "frozen_zip_rebuilt": false
+}

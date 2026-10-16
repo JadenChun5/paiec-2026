@@ -1,0 +1,18 @@
+{
+  "README.md": "719966f4a830eb29963c25f6a1617ad5d6eea916e2d52fb8de1e600122a7986b",
+  "sample_code_submission/labeling.py": "4588cc60f23db0a0986e99763fb0a46f69848216fab9d825998e165ff02fc185",
+  "sample_code_submission/model.py": "ed5221016ff8da32259aa199da1127a867fa5d16cd5d67974eb80cbbf6fc5178",
+  "sample_data/ref/ground_truth.csv": "d5d01c06122f732c7f13e571acb775cc62e27a89a8cfb5d22d2d0f1f5a4c3717",
+  "sample_data/test/models.csv": "2b1d8b09b042a455505ad73b6d8c626b20dc7772dc0c19ba34a003701c584406",
+  "sample_data/test/test_items.csv": "c9594cea04d4f2c216e256d8959b102ca9b6c81d89ceffbc2e893964608f154e",
+  "sample_data/test/test_pairs.csv": "13b2ac9092f64957fc45a0a398396b9f646855e1a74f783fa128b1fbf3b4b0b7",
+  "templates/hf_submission/model.py": "ca99760430396fae8a2681f0d0b9f5784b7df38bbf2367ef4a40d068d8a06ea8",
+  "templates/hf_submission/models.txt": "0656ef2a544c109854f46ef9399a82144b7b6d5e2f2fbc211e3d7bb654c9476c",
+  "templates/labeling_addon/labeling.py": "4588cc60f23db0a0986e99763fb0a46f69848216fab9d825998e165ff02fc185",
+  "templates/multi_hf_submission/model.py": "93fbc1f3b63063a9fbb5a725cf75cf5148e5c6290ff18af4b87d2ac0750db3f6",
+  "templates/multi_hf_submission/models.txt": "ceb111c35790a2c07d22f256600309a489fc7382cc799c0c0df82fd38f59c3b7",
+  "tools/check_submission_zip.py": "49e8a666df64671e1d32b262647b9525dfe58c93596f034289d264016ddd9eda",
+  "tools/prediction_workers.py": "3bacbccf8d711309e9d7735311ba7e0bc003025086ed3cc311044e478d6f0b48",
+  "tools/run_smoke_test.py": "db0fd19b45d982db510b7ac78e588a140b77c287ffc023e23d1731cda9ed8fc2",
+  "tools/streaming_ingestion.py": "682602ea065c5fec1731c223faae3514f42d764d96115b56ea3c8019832bab19"
+}
